@@ -1,4 +1,4 @@
-# HR Analytics_Dashboard using TABLEAU                                                                                                                                            
+# HR Analytics_Dashboard using TABLEAU and Power Bi                                                                                                                                          
 This HR Analytics dashboard developed for the HR Departments where widely used to find the Overall performance by different employees throughout various deparments in the company. I have used Tableau software to build this project.                                                                                                   
 
 * OBJECTIVE :-The main objective and theme about of this project to make easy access by HR managers to track the employees using key visuals throughout different departments like finding head count of employees, active employees, attrition by every month by leaving company, attrition by each different ages, etc.              
